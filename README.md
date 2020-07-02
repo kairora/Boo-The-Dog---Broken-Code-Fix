@@ -1,4 +1,4 @@
-# Boo-The-Dog---Broken-Code-Fix
+# Boo-The-Dog-Broken-Code-Fix
 
 This activity was a module within the Northwestern Coding Boot Camp's Pre-work Assignments.  
 
